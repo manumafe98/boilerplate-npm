@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Manuel Maxera",
+	"description": "Node.js learning",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
